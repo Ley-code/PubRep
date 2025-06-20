@@ -1,4 +1,0 @@
-[2025-06-20T09:19:42.767Z] GET /api/restaurants
-[2025-06-20T09:20:59.432Z] GET /api/restaurants
-[2025-06-20T09:22:00.939Z] POST /api/restaurants - body: {"name":"Testaurant","address":"123 Main St"}
-[2025-06-20T09:22:00.943Z] 400 Error: pool.query is not a function
